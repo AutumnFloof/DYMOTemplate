@@ -8,7 +8,7 @@
   </DrawCommands>
   <ObjectInfo>
     <TextObject>
-      <Name>TEXT</Name>
+      <Name>label-text-main</Name>
       <ForeColor Alpha="255" Red="0" Green="0" Blue="0"/>
       <BackColor Alpha="0" Red="255" Green="255" Blue="255"/>
       <LinkedObjectName></LinkedObjectName>
@@ -22,11 +22,8 @@
       <Verticalized>False</Verticalized>
       <StyledText>
         <Element>
-          <String>Name:
-Phone:
-Date:
-Device:
-Problem:</String>
+          <String>9138-6000
+        </String>
           <Attributes>
             <Font Family="Helvetica" Size="13" Bold="False" Italic="False" Underline="False" Strikeout="False"/>
             <ForeColor Alpha="255" Red="0" Green="0" Blue="0"/>
